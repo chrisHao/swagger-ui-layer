@@ -1,5 +1,8 @@
 # swagger-ui-layer
 
+## 改动内容
+- 增加对oauth2的支持
+- 增加对微服务的支持
 ------
 
 swagger-ui-layer 是一个基于swagger的前端UI实现,是为了替换了默认的swagger-ui,让生成的文档更加友好和美观
